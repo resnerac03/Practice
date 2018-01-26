@@ -187,6 +187,16 @@ footer{
 		padding-bottom: 30px;
 	}
 
+	#newsletter form input[type="email"]{
+		width: 100%;
+		margin-bottom: 5px;
+	}
+
+	#newsletter button{
+		display: block;
+		width: 100%;
+	}
+
 	#boxes .box{
 		float: none;
 		width: 100%;
